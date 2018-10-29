@@ -68,11 +68,13 @@ nav.horizontal a {
    text-decoration: none;
 }
    
-nav.horizontal a:link, nav.horizontal:visited {
+nav.horizontal a:link, 
+nav.horizontal a:visited {
    color: rgb(216, 194, 157);
 }
 
-nav.horizontal a:hover, nav.horizontal:active {
+nav.horizontal a:hover, 
+nav.horizontal a:active {
    background-color: rgb(62, 56, 45);
 }
 
